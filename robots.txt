@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://swipe2pass.github.io/sitemap.xml
